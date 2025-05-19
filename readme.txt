@@ -9,6 +9,8 @@ the result
 -> result yes we can 
 the vehicle is the T-90M that it is trained on 
 
+the result of the test is located in testresult.png
+
 
 
 
